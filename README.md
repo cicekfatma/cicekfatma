@@ -1,78 +1,149 @@
-<h1 align="center">Hi there 👋, I'm [Adın Soyadın]</h1>
-<h3 align="center">Software Engineer | New Graduate | Actively looking for full-time opportunities</h3>
+<div align="center">
 
-<p align="center">
-  <a href="#english">🇬🇧 English</a> •
-  <a href="#turkce">🇹🇷 Türkçe</a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=Hi,%20I'm%20%5BAd%C4%B1n%5D&fontSize=42&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20New%20Grad%20%7C%20Full-time%20Ready&descAlignY=55&descSize=18" width="100%"/>
 
----
+<a href="#english">🇬🇧 English</a> • <a href="#turkce">🇹🇷 Türkçe</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=const+developer+%3D+%7B+status%3A+%22open_to_work%22+%7D%3B;while(true)+%7B+learn()%3B+build()%3B+ship()%3B+%7D;git+commit+-m+%22looking+for+a+full-time+role%22" alt="Typing SVG" />
+
+</div>
+
+<br/>
 
 <a id="english"></a>
-## 🇬🇧 About Me
 
-I'm a recent Computer/Software Engineering graduate passionate about building clean, efficient, and user-focused software.
-I'm currently looking for a **full-time Software Engineer position** where I can grow and contribute from day one.
+```bash
+$ whoami
+```
 
-- 🔭 Currently working on: *[proje adı]*
-- 🌱 Currently learning: *[öğrendiğin teknoloji]*
-- 💬 Ask me about: *[uzmanlaştığın alan]*
-- 📫 Reach me: **[email adresin]**
-- 🔗 LinkedIn: **[LinkedIn linkin]**
-- 📄 CV: **[CV linkin varsa]**
+> Recent Software/Computer Engineering graduate. I build clean, reliable software and I'm actively looking for a **full-time Software Engineer role** — ready to start immediately.
 
-### 🛠️ Tech Stack
+```bash
+$ cat status.json
+```
 
-<p align="left">
-  <!-- Örnek: kullandığın teknolojileri buraya badge olarak ekle -->
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <!-- Kullanmadıklarını sil, eksik olanları shields.io'dan ekle -->
-</p>
+```json
+{
+  "role": "Software Engineer",
+  "status": "open_to_work",
+  "location": "[Şehrin / Remote]",
+  "focus": ["[alan 1]", "[alan 2]", "[alan 3]"],
+  "learning": "[şu an öğrendiğin şey]",
+  "contact": {
+    "email": "[email adresin]",
+    "linkedin": "[linkedin linkin]",
+    "resume": "[cv linkin]"
+  }
+}
+```
 
-### 🚀 Featured Projects
+```bash
+$ ls ./tech-stack
+```
 
-> Aşağıya en iyi 3-6 projeni ekle. Format: **Proje Adı** — kısa açıklama — [Repo](link) | [Demo](link varsa)
+<div align="center">
 
-- **[Proje 1 Adı]** — Bir cümlelik açıklama. [Repo](#) | [Live Demo](#)
-- **[Proje 2 Adı]** — Bir cümlelik açıklama. [Repo](#) | [Live Demo](#)
-- **[Proje 3 Adı]** — Bir cümlelik açıklama. [Repo](#) | [Live Demo](#)
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,git,docker,figma&theme=dark" />
 
-### 📊 GitHub Stats
+</div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=default" />
-</p>
+> Yukarıdaki ikonlardan kullanmadıklarını sil, eksik olan teknolojilerini [skillicons.dev](https://skillicons.dev) sitesinden ekleyebilirsin.
+
+```bash
+$ ls ./projects --sort=featured
+```
+
+<table>
+<tr>
+<td width="50%">
+
+**[Proje 1 Adı]**
+Kısa, güçlü bir açıklama — ne yapıyor, hangi problemi çözüyor.
+`Tech: React, Node.js`
+[🔗 Repo](#) · [🚀 Demo](#)
+
+</td>
+<td width="50%">
+
+**[Proje 2 Adı]**
+Kısa, güçlü bir açıklama — ne yapıyor, hangi problemi çözüyor.
+`Tech: Python, FastAPI`
+[🔗 Repo](#) · [🚀 Demo](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Proje 3 Adı]**
+Kısa, güçlü bir açıklama — ne yapıyor, hangi problemi çözüyor.
+`Tech: [teknolojiler]`
+[🔗 Repo](#) · [🚀 Demo](#)
+
+</td>
+<td width="50%">
+
+**[Proje 4 Adı]**
+Kısa, güçlü bir açıklama — ne yapıyor, hangi problemi çözüyor.
+`Tech: [teknolojiler]`
+[🔗 Repo](#) · [🚀 Demo](#)
+
+</td>
+</tr>
+</table>
+
+```bash
+$ git log --stats --author="[Adın]"
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=chartreuse-dark&hide_border=true&background=0d1117" height="165"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
+</div>
+
+<br/>
 
 ---
 
 <a id="turkce"></a>
-## 🇹🇷 Hakkımda
 
-Yeni mezun bir Bilgisayar/Yazılım Mühendisiyim ve temiz, verimli, kullanıcı odaklı yazılımlar geliştirmeye tutkuyla bağlıyım.
-Şu anda **tam zamanlı bir Yazılım Mühendisi pozisyonu** arıyorum; katkı sağlayabileceğim ve gelişebileceğim bir ekip bulmak istiyorum.
+```bash
+$ whoami --lang=tr
+```
 
-- 🔭 Şu an üzerinde çalıştığım: *[proje adı]*
-- 🌱 Şu an öğrendiğim: *[öğrendiğin teknoloji]*
-- 💬 Bana şunlar hakkında soru sorabilirsin: *[uzmanlaştığın alan]*
-- 📫 İletişim: **[email adresin]**
-- 🔗 LinkedIn: **[LinkedIn linkin]**
-- 📄 Özgeçmiş: **[CV linkin varsa]**
+> Yeni mezun bir Yazılım/Bilgisayar Mühendisiyim. Temiz ve güvenilir yazılımlar geliştiriyorum, şu anda **tam zamanlı bir Yazılım Mühendisi pozisyonu** arıyorum — hemen başlayabilirim.
 
-### 🛠️ Kullandığım Teknolojiler
+```bash
+$ cat durum.json
+```
 
-Yukarıdaki İngilizce bölümdeki rozetlerle aynı — tek bir set yeterli, tekrar eklemene gerek yok.
+```json
+{
+  "pozisyon": "Yazılım Mühendisi",
+  "durum": "iş_arıyor",
+  "konum": "[Şehrin / Remote]",
+  "odak": ["[alan 1]", "[alan 2]", "[alan 3]"],
+  "ogrenmekte": "[şu an öğrendiğin şey]",
+  "iletisim": {
+    "email": "[email adresin]",
+    "linkedin": "[linkedin linkin]",
+    "ozgecmis": "[cv linkin]"
+  }
+}
+```
 
-### 🚀 Öne Çıkan Projelerim
+> Teknolojiler, projeler ve istatistik bölümleri İngilizce kısımdakiyle ortak — tekrar eklemene gerek yok, tek set yeterli.
 
-> En iyi 3-6 projeni buraya da ekleyebilirsin (İngilizce bölümdekiyle aynı liste olabilir, gerek yoksa tekrar yazma).
+<div align="center">
 
-- **[Proje 1 Adı]** — Kısa açıklama. [Repo](#) | [Canlı Demo](#)
-- **[Proje 2 Adı]** — Kısa açıklama. [Repo](#) | [Canlı Demo](#)
-- **[Proje 3 Adı]** — Kısa açıklama. [Repo](#) | [Canlı Demo](#)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer"/>
 
----
+**[email adresin]** ile iletişime geçebilirsiniz · **[LinkedIn linkin]**
 
-<p align="center"><i>Bu README aktif olarak güncellenmektedir. / This README is actively maintained.</i></p>
+</div>
